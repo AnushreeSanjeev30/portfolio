@@ -1,0 +1,4 @@
+public/*.pdf
+public/*.jpg
+.next/
+node_modules/
